@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Programa para hallar precio de comida seleccionada
  * 
- * @author Carlos Alvarez 
+ * @author Sandra Martin, Israel Severiche, Jose Alvarez
  * @version 20190817
  */
 public class comida
